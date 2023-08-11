@@ -39,4 +39,4 @@ docker tag techmax aosnotes77/techmax
 docker push aosnotes77/techmax
 MORE VIDEOS the container to test the image
 docker run -dp 80:80 aosnotes77/techmax
-30 git add port 800:800
+30 git add port 800:800 i love terraform
